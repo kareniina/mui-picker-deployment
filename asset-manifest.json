@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mui-picker-deployment/static/css/main.ee2f6c1d.css",
+    "main.js": "/mui-picker-deployment/static/js/main.cdea04ba.js",
+    "static/js/787.d0b94b5c.chunk.js": "/mui-picker-deployment/static/js/787.d0b94b5c.chunk.js",
+    "static/media/logo.svg": "/mui-picker-deployment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mui-picker-deployment/index.html",
+    "main.ee2f6c1d.css.map": "/mui-picker-deployment/static/css/main.ee2f6c1d.css.map",
+    "main.cdea04ba.js.map": "/mui-picker-deployment/static/js/main.cdea04ba.js.map",
+    "787.d0b94b5c.chunk.js.map": "/mui-picker-deployment/static/js/787.d0b94b5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee2f6c1d.css",
+    "static/js/main.cdea04ba.js"
+  ]
+}
